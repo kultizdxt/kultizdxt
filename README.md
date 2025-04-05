@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kultizdxt
-- 👀 I’m interested in c++/c#/python/html/css/javascript
-- 🌱 I’m currently learning web 2.0
+- 👀 I’m interested in everything thats going on
+- 🌱 I’m currently lookin4ego
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: t.me/kultizdxt
 
